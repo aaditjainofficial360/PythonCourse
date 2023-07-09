@@ -23,7 +23,9 @@ word = "Cool"
 
 
 # Your code below:
-
+mid_of_char=len(chars)//2
+result=chars[:mid_of_char]+word+chars[mid_of_char:]
+print(result)
 
 
 
