@@ -13,6 +13,10 @@ original_list = ['cup', 'cereal', 'milk', (8, 4, 3)]
 
 # your code below:
 
+new_list=original_list[:3]
+new_list.append(tuple(sorted(list(original_list[3]))))
+print(new_list)
+
 
 
 
