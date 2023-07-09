@@ -6,8 +6,11 @@ my_list = [{'Tom': 20000, 'Bill': 12000}, ['car', 'laptop', 'TV']]
 
 """
 
-
+my_list = [{'Tom': 20000, 'Bill': 12000}, ['car', 'laptop', 'TV']]
 # your code below:
+bill_salary=my_list[0]['Bill']
+
+print(f'The Salary that {list(my_list[0].keys())[1]} earns is $ {bill_salary}')
 
 
 
