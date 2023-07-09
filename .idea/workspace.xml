@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section_02/assignment_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_02/assignment_02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section_02/assignment_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_02/assignment_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_02/assignment_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_02/assignment_04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <recent name="$PROJECT_DIR$/Section_001" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.assignment_03 (1)">
+  <component name="RunManager" selected="Python.assignment_04 (1)">
     <configuration name="assignment_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="assignment_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="assignment_04 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_01/assignment_04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_02/assignment_04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment_04 (1)" />
         <item itemvalue="Python.assignment_03 (1)" />
         <item itemvalue="Python.assignment_02 (1)" />
         <item itemvalue="Python.assignment_01" />
         <item itemvalue="Python.assignment_05" />
-        <item itemvalue="Python.assignment_04" />
       </list>
     </recent_temporary>
   </component>
