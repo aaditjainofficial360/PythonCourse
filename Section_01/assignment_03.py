@@ -21,6 +21,9 @@ word = "Cool"
 # Expected Result Printed: [[Cool]]
 
 # Your code below:
+mid_of_chars=len(chars)//2
+result=chars[:mid_of_chars]+word+chars[mid_of_chars:]
+print(result)
 
 
 
