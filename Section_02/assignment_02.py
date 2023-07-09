@@ -10,7 +10,8 @@ who owns a bike, a laptop and boat.
 """
 
 # your code below:
-
+info={'Tom':{'Salary':20000,'Age':22,'owns_items':['Jacket','Car','TV']},'Mike':{'Salary':24000,'Age':27,'owns_items':
+    ['Bike','Laptop','Boat']}}
 
 
 
