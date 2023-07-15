@@ -55,10 +55,6 @@ Example:
 
 
 
-
-
-
-
 # Solution:
 
 # def key_list_items(key, **kwargs):
