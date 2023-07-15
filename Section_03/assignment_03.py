@@ -11,7 +11,10 @@ argument as individual elements in the list.
 """
 # Your Code Below:
 def multi_merge(lst,string):
-    pass
+    lst=list(map(str,lst))
+    string_list=list(string)
+    lst+=string_list
+    return sorted(lst)
 
 
 
@@ -20,7 +23,7 @@ def multi_merge(lst,string):
 
 
 
-
+print(multi_merge(['Aadit','Jain','UP','37','U','P',6,3,1,0],'UP37U6310'))
 
 
 
@@ -57,4 +60,4 @@ def multi_merge(lst,string):
 # def multi_merge(list_a, str):
 #     return list_a + str.split() + list(str)
 #
-# print(multi_merge([1,2,3,4], "Hello My name is imtiaz"))
+print(multi_merge([1,2,3,4], "Hello My name is imtiaz"))
