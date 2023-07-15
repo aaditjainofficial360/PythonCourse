@@ -7,12 +7,18 @@
     Make sure to test the function.
 """
 # Your Code Below:
+def separate(string):
+    return list(string)
 
 
 
 
 
 
+
+
+print(separate('Aadit Jain'))
+print(separate('My Lovely Sister - Rashi'))
 
 
 
@@ -56,4 +62,4 @@
 # def separate(str):
 #     return list(str)
 #
-# print(separate("hello there"))
+print(separate("hello there"))

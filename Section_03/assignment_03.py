@@ -10,7 +10,8 @@ argument as individual elements in the list.
 
 """
 # Your Code Below:
-
+def multi_merge(lst,string):
+    pass
 
 
 
