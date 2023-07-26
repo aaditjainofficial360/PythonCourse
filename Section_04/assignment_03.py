@@ -12,6 +12,9 @@ sequence([]) → False
 """
 
 # Your Code Below:
+def sequence(*args):
+    pass
+print(sequence([1, 1, 2, 3, 1]))
 
 
 

@@ -14,7 +14,8 @@ Example:
 """
 
 # Your Code Below:
-
+def key_list_items(**kwargs):
+    return kwargs['people'][-2]
 
 
 
@@ -61,6 +62,6 @@ Example:
 #     keys = kwargs[key]
 #     return keys[-2]
 #
-# result = key_list_items("people", things=['book', 'tv', 'shoes'], people=['pete', 'mike', 'jan', 'tom'],
-#                 ages=[20, 30, 40])
-# print(result)
+result = key_list_items("people", things=['book', 'tv', 'shoes'], people=['pete', 'mike', 'jan', 'tom'],
+                ages=[20, 30, 40])
+print(result)

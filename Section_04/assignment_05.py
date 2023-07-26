@@ -14,7 +14,16 @@ first3([1, 2, 3, 4, 5]) → False
 """
 
 # Your Code Below:
+def first3(lst):
+    first_four=lst[:4]
+    return 6 in first_four
 
+
+print(first3([1, 2, 6, 3, 4]))
+
+print(first3([1, 2, 3, 4, 6]))
+
+print(first3([1, 2, 3, 4, 5]))
 
 
 
